@@ -8,5 +8,7 @@ Features:
 4. User can see the list of notes made by user
 5. User can create a new note and can switch between notes
 Screenshots:
+
+
 ![image](https://user-images.githubusercontent.com/77388132/192341261-8dbd762b-22c0-4422-b61b-221dfed515d0.png)
 
